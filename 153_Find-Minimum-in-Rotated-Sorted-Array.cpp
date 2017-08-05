@@ -14,7 +14,7 @@ public:
 
         	int mid = (start + end) / 2;
 
-        	if(nums[mid] < nums[start]) {
+        	if (nums[mid] < nums[start]) {
         		end = mid;
         	} else {
         		start = mid + 1;
@@ -29,8 +29,8 @@ int main() {
     Solution solution;
     int num[] = {7, 8, 1, 2, 3, 4, 5, 6};
     int length = sizeof(num) / sizeof(int);
-	vector<int> nums(num, num+length);
+	vector<int> nums(num, num + length);
 	int min = solution.findMin(nums);
-	cout << "Min:" << min << endl;
+	cout << min << " is the smallest in array." << endl;
 	return 0;
 }

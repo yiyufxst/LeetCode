@@ -20,16 +20,16 @@ public:
 
         for (int i = 0; i < length; i++) {
             if (s[i] != ' ') {
-                break;
+                break; 
             } else {
                 leftSpaces++;
             }
         }
-        if(leftSpaces == length) {
+        if (leftSpaces == length) {
             s = "";
             return ;
         }
-        for (int j = length-1; j > 0; j--) {
+        for (int j = length - 1; j > 0; j--) {
             if (s[j] != ' ') {
                 break;
             } else {
@@ -37,29 +37,29 @@ public:
             }
         } 
 
-        for (int i = leftSpaces; i < length-rightSpaces;) { 
+        for (int i = leftSpaces; i < length - rightSpaces;) { 
             start = copy;
-        	while (i<length-rightSpaces && s[i] != ' ') {
+        	while (i < length - rightSpaces && s[i] != ' ') {
         		s[copy++] = s[i++];
         	} 
-            reverseWord(s, start, copy-1);
-            if (i<length-rightSpaces && copy > 0) {
+            reverseWord(s, start, copy - 1);
+            if (i < length - rightSpaces && copy > 0) {
                 s[copy++] = ' ';
             }   
-            while (i<length-rightSpaces && s[i] == ' ') {
+            while (i < length - rightSpaces && s[i] == ' ') {
                 i++;
         	} 
         }
 
         s.resize(copy);
-        reverseWord(s, 0, copy-1);
+        reverseWord(s, 0, copy - 1);
     }
 };
 
 int main() {
     Solution solution;
     string s = "  abc   efg   ";
-    cout << "Result:" << s << "start"<<endl;  
+    cout << "Result:" << s << "(start)"<<endl;  
     solution.reverseWords(s);
-    cout << "Result:" << s << "end"<<endl;  
+    cout << "Result:" << s << "(end)"<<endl;  
 }

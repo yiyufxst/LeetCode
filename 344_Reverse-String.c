@@ -14,6 +14,6 @@ char* reverseString(char* s) {
 int main() {
 	char s[] = "hello";
 	reverseString(s);
-	printf(s);
+	printf("Result: %s", s);
 	return 0;
 }
