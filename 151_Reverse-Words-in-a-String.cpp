@@ -56,8 +56,7 @@ public:
     }
 };
 
-int main()
-{
+int main() {
     Solution solution;
     string s = "  abc   efg   ";
     cout << "Result:" << s << "start"<<endl;  
