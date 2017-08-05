@@ -5,4 +5,5 @@
 * \#344 Reverse String
 * \#151 Reverse Words in a String
 * \#153 Find Minimun in Rotated Sorted Array
+* \#154 Find Minimun in Rotated Sorted Array II
 
