@@ -1,10 +1,11 @@
 ## LeetCode
 
-### List
-
 #### String
 
 * \#344 Reverse String
+
+  思路：通过对字符进行替换，实现对单词的反转。
+
 * \#151 Reverse Words in a String
 
 
