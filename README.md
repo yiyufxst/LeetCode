@@ -13,4 +13,5 @@
 * \#136 Single Number
 * \#137 Single Number II
 * \#260 Single Number III
+* \#229 Majority Element II
 
