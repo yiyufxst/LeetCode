@@ -2,8 +2,14 @@
 
 ### List
 
+#### String
+
 * \#344 Reverse String
 * \#151 Reverse Words in a String
+
+
+#### Array
+
 * \#153 Find Minimun in Rotated Sorted Array
 * \#154 Find Minimun in Rotated Sorted Array II
 * \#35  Search Insert Position
@@ -13,5 +19,6 @@
 * \#136 Single Number
 * \#137 Single Number II
 * \#260 Single Number III
-* \#229 Majority Element II
+* \#169 Majority Element
+
 
