@@ -6,7 +6,7 @@
 
   思路：通过对字符进行替换，从而实现对单词的翻转。
 
-* \#151 Reverse Words in a String
+* \#151 [Reverse Words in a String](http://blog.csdn.net/pop1586082213/article/details/76922094)
 
 
 #### Array
