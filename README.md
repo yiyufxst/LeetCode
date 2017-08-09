@@ -6,7 +6,7 @@
 
   思路：通过对字符进行替换，从而实现对单词的翻转。
 
-* \#151 [Reverse Words in a String](https://yiyufxst.me/2017/08/08/LeetCode/[LeetCode]_151_Reverse_Words_in_a_String/)
+* \#151 [Reverse Words in a String](https://yiyufxst.me/2017/08/08/LeetCode/151_Reverse_Words_in_a_String/)
 
 
 #### Array
