@@ -23,9 +23,11 @@
 
 * \#81  [Search in Rotated Sorted Array II](https://yiyufxst.me/2017/08/10/LeetCode/81_Search_in_Rotated_Sorted_Array_II/)
 
-* \#41  [First Missing Positive](https://yiyufxst.me/2017/08/10/LeetCode/41_First_Missing_Positive/#more)
+* \#41  [First Missing Positive](https://yiyufxst.me/2017/08/10/LeetCode/41_First_Missing_Positive/)
 
 * \#136 Single Number
+
+  **思路**：遍历数组元素进行异或，其余元素出现两次相互抵消，即可得该元素。
 
 * \#137 Single Number II
 
