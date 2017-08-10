@@ -23,7 +23,7 @@
 
 * \#81  [Search in Rotated Sorted Array II](https://yiyufxst.me/2017/08/10/LeetCode/81_Search_in_Rotated_Sorted_Array_II/)
 
-* \#41  First Missing Positive
+* \#41  [First Missing Positive](https://yiyufxst.me/2017/08/10/LeetCode/41_First_Missing_Positive/#more)
 
 * \#136 Single Number
 
