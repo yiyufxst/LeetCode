@@ -21,7 +21,7 @@
 
 * \#33  [Search in Rotated Sorted Array](https://yiyufxst.me/2017/08/10/LeetCode/33_Search_in_Rotated_Sorted_Array/)
 
-* \#81  Search in Rotated Sorted Array II
+* \#81  [Search in Rotated Sorted Array II](https://yiyufxst.me/2017/08/10/LeetCode/81_Search_in_Rotated_Sorted_Array_II/)
 
 * \#41  First Missing Positive
 
