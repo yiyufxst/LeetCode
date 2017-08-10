@@ -31,7 +31,7 @@
 
 * \#137 [Single Number II](https://yiyufxst.me/2017/08/10/LeetCode/137_Single_Number_II/)
 
-* \#260 Single Number III
+* \#260 [Single Number III](https://yiyufxst.me/2017/08/10/LeetCode/260_Single_Number_III/)
 
 * \#169 Majority Element
 
