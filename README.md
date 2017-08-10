@@ -19,7 +19,7 @@
 
   **思路**：排序数组找目标值的索引——利用二分查找，判断目标值应在的位置。
 
-* \#33  Search in Rotated Sorted Array
+* \#33  [Search in Rotated Sorted Array](https://yiyufxst.me/2017/08/10/LeetCode/33_Search_in_Rotated_Sorted_Array/)
 
 * \#81  Search in Rotated Sorted Array II
 
