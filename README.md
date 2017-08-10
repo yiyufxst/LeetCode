@@ -29,7 +29,7 @@
 
   **思路**：遍历数组元素进行异或，其余元素出现两次相互抵消，即可得该元素。
 
-* \#137 Single Number II
+* \#137 [Single Number II](https://yiyufxst.me/2017/08/10/LeetCode/137_Single_Number_II/)
 
 * \#260 Single Number III
 
