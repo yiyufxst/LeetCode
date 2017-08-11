@@ -35,7 +35,11 @@
 
 * \#169 Majority Element
 
+  **思路**：每次扔掉两个不同的数，最后剩下的数就是众数。
+
 * \#229 Majority Element II 
+
+  **思路**：使用两个计数器判断，参考[书影博客](http://bookshadow.com/weblog/2015/06/29/leetcode-majority-element-ii/)。
 
 
 #### List
